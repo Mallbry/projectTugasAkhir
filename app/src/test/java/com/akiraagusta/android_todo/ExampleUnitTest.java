@@ -1,4 +1,4 @@
-package com.akiraagusta.android_todo;
+package com.akiraagusta.android_JustList;
 
 import org.junit.Test;
 
